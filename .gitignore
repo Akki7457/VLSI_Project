@@ -1,0 +1,15 @@
+# Simulation-generated files
+work/
+transcript
+vsim.wlf
+*.vcd
+*.fst
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
